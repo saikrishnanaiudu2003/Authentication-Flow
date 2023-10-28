@@ -1,7 +1,7 @@
 # Authentication-Flow
 User Login and Register Useing MERN
 Advanced Registration and Authentication System
-This project is an advanced registration and authentication system built using React. It provides user registration and login functionality, complete with features such as password visibility toggling and one-time password (OTP) support.
+This project is an advanced registration and authentication system built using React. It provides user registration and login functionality, complete with features such as password visibility toggling.
 
 Description
 The Advanced Registration and Authentication System is designed to offer a comprehensive and user-friendly solution for user registration and authentication within web applications. It empowers developers to quickly integrate secure registration and login forms into their projects while allowing users to conveniently access their accounts.
