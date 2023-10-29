@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 6002;
 
 app.use("/api",router)
 
-mongoose.connect("mongodb+srv://saikrishnanaiudub:Krishna2003@cluster0.g5qgqv9.mongodb.net/USER?retryWrites=true&w=majority").then(()=>{
+mongoose.connect("mongodb+srv://<your>:<password>@cluster0.g5qgqv9.mongodb.net/USER?retryWrites=true&w=majority").then(()=>{
     app.listen(PORT);
     console.log("data base connected port 6002");
 }).catch((err)=>console.log(err));
